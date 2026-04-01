@@ -38,6 +38,7 @@ that all parts
 # Programs
 
 kicad(pcb)
+
 google dosc (bom)
 
 # there is BOM 
@@ -46,4 +47,5 @@ google dosc (bom)
 <img width="1390" height="375" alt="image" src="https://github.com/user-attachments/assets/07830a58-ee0f-40b6-88c2-ec9d3c03f058" />
 
 **Parts to buy BOM**
+<img width="715" height="233" alt="Zrzut ekranu 2026-04-01 014924" src="https://github.com/user-attachments/assets/c3a2b4d2-acd1-4511-ae8e-e08293a9a14a" />
 
