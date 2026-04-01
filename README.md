@@ -4,7 +4,7 @@ GPS module with custome PCB and Case
 
 I made becuse i need gps in my GPS to my project but i dont wanna put this in **BIG Project**
 there is not anntena becuse for now i dont need. I made this i track road and speed
-
+for that moment i no need code for it
 # there is visual in a case:
 
 <img width="764" height="543" alt="Zrzut ekranu 2026-03-31 222147" src="https://github.com/user-attachments/assets/34129c0a-52db-41b1-8787-89ea81e5e909" />
