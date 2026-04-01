@@ -3,6 +3,7 @@
 GPS module with custome PCB and Case
 
 I made becuse i need gps in my GPS to my project but i dont wanna put this in **BIG Project**
+there is not anntena becuse for now i dont need. I made this i track road and speed
 
 # there is visual in a case:
 
